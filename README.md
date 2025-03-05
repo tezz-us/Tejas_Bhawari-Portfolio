@@ -1,4 +1,4 @@
-# Data Scientist
+# Data and Automation Expert
 
 ### Technical Skills & Stack:
 
