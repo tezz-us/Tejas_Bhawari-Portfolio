@@ -27,13 +27,23 @@
 
 #### **Robotics Process Automation Developer \@ Predoole Analytics LTD (*November 2021 - December 2023*)**
 
-\- Leveraged RPA bots to streamline ETL processes, ensuring efficient data ingestion from multiple sources into Power BI, Tableau and SQL databases.
+\- Creating workflows and configuring Robots, **UiPath-based automation solutions**, streamlining HR, finance, and procurement workflows, leading to a **35% improvement in efficiency**.
 
-\- Built interactive Tableau dashboards, incorporating calculated fields, parameters, and automated data refresh cycles for KPI tracking and business insights.
+\- Engineered **SQL-driven data pipelines**, integrating multiple sources for **automated workforce forecasting, budgeting, and performance tracking**.
 
-\- Integrated RPA with SQL databases, automating data validation, cleansing, and transformation for accurate reporting.
+\- Designed and implemented **dynamic dashboards** in Power BI and Excel, automating real-time reporting for data-driven decision-making.
 
-\- Collaborated with business stakeholders to define automation requirements and optimize data-driven decision-making.
+\- Optimized business workflows by integrating **RPA bots with existing enterprise applications**, reducing manual errors and improving operational efficiency.
+
+\- Led requirement gathering sessions with **stakeholders, business analysts, and project managers**, translating business needs into technical specifications.
+
+\- Developed and maintained **process documentation, system architecture diagrams, and automation logic flowcharts** for seamless knowledge transfer and compliance.
+
+\- Conducted extensive **troubleshooting, debugging, and performance testing** to enhance system stability and reliability.
+
+\- Led **training and mentoring sessions** for business users, ensuring a smooth transition and successful adoption of automated processes.
+
+-   Defined **best practices and governance models** for RPA deployment, ensuring business continuity and compliance
 
 ## Academic Projects
 
