@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/tejas-bhawari" target="_blank" style="margin-left: 5px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
          alt="LinkedIn" height="18" width="25" 
-         style="vertical-align: middle; margin-bottom: -3px;">
+         style="vertical-align: middle; margin-bottom: -5px;">
   </a>
 </h3>
 
