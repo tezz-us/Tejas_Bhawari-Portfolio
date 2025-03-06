@@ -1,30 +1,26 @@
 # **Data and Automation Expert** 🚀
+
 <h3 align="left" style="display: inline-flex; align-items: center; line-height: 1;">
-  <a href="https://linkedin.com/in/tejas-bhawari" target="_blank" style="margin-left: 5px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn" height="18" width="25" 
-         style="vertical-align: middle; position: relative; top: -4px;">
-  </a>
-  
-  <a href="https://github.com/tezz-us" target="_blank" style="margin-left: 5px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
-         alt="GitHub" height="18" width="25" 
-         style="vertical-align: middle; position: relative; top: -4px;">
-  </a>
+
+<a href="https://linkedin.com/in/tejas-bhawari" target="_blank" style="margin-left: 5px;"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="18" width="25" style="vertical-align: middle; position: relative; top: -4px;"/> </a>
+
+<a href="https://github.com/tezz-us" target="_blank" style="margin-left: 5px;"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="18" width="25" style="vertical-align: middle; position: relative; top: -4px;"/> </a>
+
 </h3>
 
+------------------------------------------------------------------------
+
+Hey, I’m Tejas !! A Data Analyst 📊 & RPA Developer 🤖, currently pursuing my Master’s in Data Science at the University of Arizona. My journey started in Mechanical Engineering, but I quickly realized my love for data, automation, and business intelligence. I specialize in data-driven decision-making, process automation, and optimizing workflows using SQL, Python, Power BI, and RPA tools like Ui Path & Microsoft Power Automate.
 
 ------------------------------------------------------------------------
 
-Hey, I’m Tejas !! A Data Analyst 📊 & RPA Developer 🤖, currently pursuing my Master’s in Data Science at the University of Arizona. My journey started in Mechanical Engineering, but I quickly realized my love for data, automation, and business intelligence. I specialize in data-driven decision-making, process automation, and optimizing workflows using SQL, Python, Power BI, and RPA tools like Ui Path & Microsoft Power Automate
-------------------------------------------------------------------------
 ## **Education**
 
 ------------------------------------------------------------------------
 
 -   M.S, Data Science (GPA 3.8) \| University of Arizona (*May 2025*)
 
--    B.E, Mechanical Engineering (GPA 3.4) \| University of Mumbai (*August 2021*)
+-   B.E, Mechanical Engineering (GPA 3.4) \| University of Mumbai (*August 2021*)
 
 ## Work Experience
 
@@ -32,7 +28,7 @@ Hey, I’m Tejas !! A Data Analyst 📊 & RPA Developer 🤖, currently pursuing
 
 #### **Data Analyst – Avex ATP LLC (*Dec 2024 - Present*)**
 
--    Collaborate with IT leaders and cross functional teams to modernize technology infrastructure as part of a large scale digital transformation initiative.
+-   Collaborate with IT leaders and cross functional teams to modernize technology infrastructure as part of a large scale digital transformation initiative.
 
 -   Designed and automated IT workflow tracking reports using SQL, Power BI, and Power Automate, reducing manual reporting by 40%.
 
