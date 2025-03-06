@@ -3,5 +3,7 @@ title: Tejas Bhawari
 logo: /headdhot portfolio.PNG
 description: Data Analyst | RPA Developer | Automation & Process Optimization | Driving Business Efficiency through Data & AI
 #show_downloads: false
-theme: null
-
+theme: jekyll-theme-minimal
+.github-repo {
+    display: none !important;
+    }
