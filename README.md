@@ -12,7 +12,7 @@ Find Me Here: <a href="https://linkedin.com/in/tejas-bhawari" target="blank"><im
 
 -   M.S, Data Science (GPA 3.8) \| University of Arizona (*May 2025*)
 
--    B.E., Mechanical Engineering (GPA 3.4) \| University of Mumbai (*August 2021*)
+-    B.E, Mechanical Engineering (GPA 3.4) \| University of Mumbai (*August 2021*)
 
 ## Work Experience
 
@@ -54,7 +54,7 @@ Find Me Here: <a href="https://linkedin.com/in/tejas-bhawari" target="blank"><im
 
 -   Defined best practices and governance models for RPA deployment, ensuring business continuity and compliance.
 
-### **Technical Skills & Certifications:**
+### **Technical Skills & Certifications**
 
 ------------------------------------------------------------------------
 
