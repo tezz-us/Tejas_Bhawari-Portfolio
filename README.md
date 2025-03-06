@@ -10,7 +10,7 @@
 
 ------------------------------------------------------------------------
 
-Hey, I’m Tejas !! A Data Analyst 📊 & RPA Developer 🤖, currently pursuing my Master’s in Data Science at the University of Arizona. My journey started in Mechanical Engineering, but I quickly realized my love for data, automation, and business intelligence. I specialize in data-driven decision-making, process automation, and optimizing workflows using SQL, Python, Power BI, and RPA tools like Ui Path & Microsoft Power Automate.
+Hey, I’m Tejas !! My journey started in Mechanical Engineering, but I quickly realized my love for data, automation, and business intelligence. I specialize in data-driven decision-making, process automation, and optimizing workflows using SQL, Python, Power BI, and RPA tools like Ui Path & Microsoft Power Automate.
 
 ------------------------------------------------------------------------
 
