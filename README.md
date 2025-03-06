@@ -4,7 +4,7 @@
   Find Me Here: 
   <a href="https://linkedin.com/in/tejas-bhawari" target="_blank" style="margin-left: 5px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn" height="20" width="25" 
+         alt="LinkedIn" height="16.5" width="25" 
          style="vertical-align: middle;">
   </a>
 </h3>
