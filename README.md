@@ -1,8 +1,7 @@
 # **Data and Automation Expert** 🚀
 
 <h3 align="left" style="display: inline;">
-  Find Me Here:  
-  <a href="https://linkedin.com/in/tejas-bhawari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas-bhawari" height="16.5" width="25"/></a>
+  Find Me Here:  <a href="https://linkedin.com/in/tejas-bhawari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas-bhawari" height="16.5" width="25"/></a>
 </h3>
 
 ------------------------------------------------------------------------
@@ -19,7 +18,7 @@
 
 ------------------------------------------------------------------------
 
-#### **Data Analyst – Avex ATP LLC (*Dec 2024   Present*)**
+#### **Data Analyst – Avex ATP LLC (*Dec 2024 - Present*)**
 
 -    Collaborate with IT leaders and cross functional teams to modernize technology infrastructure as part of a large scale digital transformation initiative.
 
@@ -35,7 +34,7 @@
 
 -   Conducted UAT testing and process validation to optimize data driven decision making workflows within the ITtransformation strategy.
 
-#### **Robotics Process Automation Developer – Predoole Analytics LTD (*Nov 2021   Dec 2023*)**
+#### **Robotics Process Automation Developer – Predoole Analytics LTD (*Nov 2021 - Dec 2023*)**
 
 -   Creating workflows and configuring Robots, UiPath based automation solutions, streamlining HR, finance, and procurement workflows, leading to a 35% improvement in efficiency.
 
