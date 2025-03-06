@@ -42,7 +42,7 @@ Hey, I’m Tejas !! My journey started in Mechanical Engineering, but I quickly 
 
 -   Conducted UAT testing and process validation to optimize data driven decision making workflows within the ITtransformation strategy.
 
-#### **Robotics Process Automation Developer – Predoole Analytics LTD (*Nov 2021 - Dec 2023*)**
+#### **Robotics Process Automation Consultant – Predoole Analytics LTD (*Nov 2021 - Dec 2023*)**
 
 -   Creating workflows and configuring Robots, UiPath based automation solutions, streamlining HR, finance, and procurement workflows, leading to a 35% improvement in efficiency.
 
