@@ -3,8 +3,7 @@
 <h3 align="left" style="display: inline;">
   Find Me Here:  
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-       alt="LinkedIn" height="20" width="25" 
-       style="vertical-align: middle; margin-left: 5px;">
+       alt="LinkedIn" height="20" width="25" >
 </h3>
 
 ------------------------------------------------------------------------
