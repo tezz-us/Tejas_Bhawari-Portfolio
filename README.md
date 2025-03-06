@@ -1,13 +1,18 @@
 # **Data and Automation Expert** 🚀
 
-<h3 align="left" style="display: inline-flex; align-items: center; line-height: 1;">
-  Find Me Here: 
   <a href="https://linkedin.com/in/tejas-bhawari" target="_blank" style="margin-left: 5px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
          alt="LinkedIn" height="18" width="25" 
          style="vertical-align: middle; position: relative; top: -4px;">
   </a>
+  
+  <a href="https://github.com/tezz-us" target="_blank" style="margin-left: 5px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
+         alt="GitHub" height="18" width="25" 
+         style="vertical-align: middle; position: relative; top: -4px;">
+  </a>
 </h3>
+
 
 ------------------------------------------------------------------------
 
