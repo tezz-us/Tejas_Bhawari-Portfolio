@@ -130,7 +130,7 @@ Tech: R, Quarto
 
 ------------------------------------------------------------------------
 
-#### **Social Media & Marketer   University of Arizona (DRC)**
+#### **Social Media & Marketer - University of Arizona (DRC)**
 
 -   Captured and edited digital content including photoshoots, events, and team videos, ensuring high quality production for Wheelchair Tennis and Basketball.
 
