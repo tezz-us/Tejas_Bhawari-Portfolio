@@ -54,7 +54,7 @@ Find Me Here: <a href="https://linkedin.com/in/tejas-bhawari" target="blank"><im
 
 -   Defined best practices and governance models for RPA deployment, ensuring business continuity and compliance.
 
-### **Technical Skills & Certifications**
+## **Technical Skills & Certifications**
 
 ------------------------------------------------------------------------
 
