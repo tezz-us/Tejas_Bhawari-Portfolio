@@ -1,6 +1,5 @@
 # **Data and Automation Expert** 🚀
 
-  Find Me Here: 
 <h3 align="left" style="display: inline;">
 Find Me Here: <a href="https://linkedin.com/in/tejas-bhawari" target="blank"><img align="center" style="display: inline;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas-bhawari" height="16.5" width="25"  /></a>
 </h3>
