@@ -26,41 +26,32 @@ Hey, I’m Tejas !! My journey started in Mechanical Engineering, but I quickly 
 
 ------------------------------------------------------------------------
 
-#### **Data Analyst – Avex ATP LLC (*Dec 2024 - Present*)**
+#### **Data Analyst – Deloitte (*Dec 2024 - Present*)**
 
--   Collaborate with IT leaders and cross functional teams to modernize technology infrastructure as part of a large scale digital transformation initiative.
+- Executed SQL scripts, creating indexes, stored procedures for data analysis and maintained PL/SQL objects like packages, triggers, procedures etc.
 
--   Designed and automated IT workflow tracking reports using SQL, Power BI, and Power Automate, reducing manual reporting by 40%.
+- Participated in and implemented in end-to-end BI projects, including requirements gathering, data modeling, ETL processes, and report/dashboard development.
 
--   Developed interactive dashboards to visualize IT transformation progress, labor optimization, and compliance tracking, ensuring strategic decision making.
+- Designed and optimized SQL queries for MS SQL and Oracle databases, ensuring accurate data retrieval.
 
--   Analyzed IT process performance metrics and provided data driven recommendations for modernization and automation.
+- Developed and maintained interactive dashboards using Tableau and Power BI to visualize complex datasets, resulting in a 30% improvement in data-driven decision-making processes.
 
--   Implemented predictive analytics models to identify risk factors in IT project execution and ensure alignment with business objectives.
+- Collaborated with cross-functional teams throughout the SDLC to ensure seamless integration of reporting solutions and alignment with business requirements.
 
--   Facilitated stakeholder meetings to gather requirements, document processes, and communicate technology driven changes.
+- Analyzed large datasets to identify trends and patterns that informed strategic business decisions, contributing to a 20% increase in customer retention rates.
 
--   Conducted UAT testing and process validation to optimize data driven decision making workflows within the ITtransformation strategy.
 
-#### **Robotics Process Automation Consultant – Predoole Analytics LTD (*Nov 2021 - Dec 2023*)**
+#### **Data Analyst – Smartfox (*Jan 2021 - Nov 2023*)**
 
--   Creating workflows and configuring Robots, UiPath based automation solutions, streamlining HR, finance, and procurement workflows, leading to a 35% improvement in efficiency.
+- Conducted exploratory data analysis (EDA) using Python (Pandas, NumPy, SciPy) to identify trends, anomalies, and insights from large datasets of millions.
+  
+- Conducted advanced data analysis using SQL and Excel to uncover key business trends, driving a 25% increase in customer engagement through targeted marketing campaigns.
 
--   Engineered SQL driven data pipelines, integrating multiple sources for automated workforce forecasting, budgeting, and performance tracking.
+- Collaborated with cross-functional teams to understand business requirements and translate them into data-driven solutions, leveraging Agile/Scrum methodologies.
 
--   Designed and implemented dynamic dashboards in Power BI and Excel, automating real time reporting for data driven decision making.
+- Developed dashboards and key Performance Indicators (KPI) with SQL Server Reporting Services (SSRS) and Power BI.
 
--   Optimized business workflows by integrating RPA bots with existing enterprise applications, reducing manual errors and improving operational efficiency.
-
--   Led requirement gathering sessions with stakeholders, business analysts, and project managers, translating business needs into technical specifications.
-
--   Developed and maintained process documentation, system architecture diagrams, and automation logic flowcharts for seamless knowledge transfer and compliance.
-
--   Conducted extensive troubleshooting, debugging, and performance testing to enhance system stability and reliability.
-
--   Led training and mentoring sessions for business users, ensuring a smooth transition and successful adoption of automated processes.
-
--   Defined best practices and governance models for RPA deployment, ensuring business continuity and compliance.
+- Conducted in-depth Cost/Benefit, Risk, Impact, SWOT , Regression, Time Series, Decision Making and GAP Analysis. 
 
 ## **Technical Skills & Certifications**
 
