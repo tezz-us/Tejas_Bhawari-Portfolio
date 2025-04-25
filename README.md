@@ -128,8 +128,11 @@ Tech: R, Quarto
 ## Academic Work Experience
 
 ------------------------------------------------------------------------
+#### **Graduate Teaching Assistant - University of Arizona**
 
-#### **Social Media & Marketer - University of Arizona (DRC)**
+-   Responsible for grading assignments, exams, or other assessments. 
+
+#### **Social Media & Marketer - University of Arizona**
 
 -   Captured and edited digital content including photoshoots, events, and team videos, ensuring high quality production for Wheelchair Tennis and Basketball.
 
