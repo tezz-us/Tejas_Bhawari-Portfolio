@@ -71,6 +71,18 @@ Hey, I’m Tejas !! My journey started in Mechanical Engineering, but I quickly 
 
 ------------------------------------------------------------------------
 
+#### Covid - 19 PowerBI Dashboard ([View Here](https://app.powerbi.com/groups/me/reports/dd0f7638-e52b-49b4-a83c-d67efeb580c6/56a65c900727d3ca90eb?experience=power-bi))
+
+-   Visualized total COVID-19 cases by continent using a dynamic map and waterfall chart.
+
+- Tracked monthly trends for India and Indonesia with a time-series line graph.
+
+-   Integrated DAX measures and Power Query for accurate data modeling.
+
+-   Enabled users to interactively explore global and regional pandemic data from January 2020 onward.
+
+Tech: SQL, PowerBI
+
 #### Match Winner Analyzer ([View Here](https://info523-s24.github.io/project-final-DaakuDataSingh/))
 
 -   Developed a predictive model using regression classification to forecast cricket match outcomes based on live match data
