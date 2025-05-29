@@ -26,7 +26,16 @@ Hey, I’m Tejas !! My journey started in Mechanical Engineering, but I quickly 
 
 ------------------------------------------------------------------------
 
-#### **Data Analyst – Deloitte (*Dec 2024 - Present*)**
+#### **Data Analyst Intern– Avex ATP LLC (*May 20245 - Present*)**
+
+- Led requirement-gathering sessions for dashboard development projects, resulting in 30% improvement in decision-making efficiency.
+
+- Bridged communication between technical teams and business users by converting ambiguous requests into clear, actionable data requirements.
+
+-	Developed and maintained interactive dashboards using Tableau and Power BI to visualize complex datasets, resulting in a 30% improvement in data-driven decision-making processes.
+  
+
+#### **Data Analyst Intern– Avex ATP LLC (*Dec 2024 - May 2025*)**
 
 - Executed SQL scripts, creating indexes, stored procedures for data analysis and maintained PL/SQL objects like packages, triggers, procedures etc.
 
