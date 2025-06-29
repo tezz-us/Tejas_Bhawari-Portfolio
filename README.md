@@ -26,7 +26,7 @@ Hey, I’m Tejas !! My journey started in Mechanical Engineering, but I quickly 
 
 ------------------------------------------------------------------------
 
-#### **Data Analyst Intern– Avex ATP LLC (*May 20245 - Present*)**
+#### **Data Analyst – IT Pros (*May 2025 - Present*)**
 
 - Led requirement-gathering sessions for dashboard development projects, resulting in 30% improvement in decision-making efficiency.
 
