@@ -24,16 +24,7 @@ Hey, I’m Tejas !! My journey started in Mechanical Engineering, but I quickly 
 
 ## Work Experience
 
-------------------------------------------------------------------------
-
-#### **Data Analyst – IT Pros (*May 2025 - Present*)**
-
-- Led requirement-gathering sessions for dashboard development projects, resulting in 30% improvement in decision-making efficiency.
-
-- Bridged communication between technical teams and business users by converting ambiguous requests into clear, actionable data requirements.
-
--	Developed and maintained interactive dashboards using Tableau and Power BI to visualize complex datasets, resulting in a 30% improvement in data-driven decision-making processes.
-  
+------------------------------------------------------------------------  
 
 #### **Data Analyst Intern– Avex ATP LLC (*Dec 2024 - May 2025*)**
 
@@ -50,17 +41,17 @@ Hey, I’m Tejas !! My journey started in Mechanical Engineering, but I quickly 
 - Analyzed large datasets to identify trends and patterns that informed strategic business decisions, contributing to a 20% increase in customer retention rates.
 
 
-#### **Data Analyst – Smartfox (*Jan 2021 - Nov 2023*)**
+#### **Robotics Process Automation Developer – Predoole Analytics PVT LTD (*Nov 2021 - Dec 2023*)**
 
-- Conducted exploratory data analysis (EDA) using Python (Pandas, NumPy, SciPy) to identify trends, anomalies, and insights from large datasets of millions.
-  
-- Conducted advanced data analysis using SQL and Excel to uncover key business trends, driving a 25% increase in customer engagement through targeted marketing campaigns.
+- Designed and implemented RPA workflows using UI Path to automate high-frequency manual processes, eliminating over 120 hours/month of repetitive work and generating $20,000/year in cost savings.
 
-- Collaborated with cross-functional teams to understand business requirements and translate them into data-driven solutions, leveraging Agile/Scrum methodologies.
+- Led redesign of BI documentation practices by implementing structured reporting templates and guidelines, which increased internal report usage and improved stakeholder trust by 35%.
 
-- Developed dashboards and key Performance Indicators (KPI) with SQL Server Reporting Services (SSRS) and Power BI.
+- Trained 10+ business users on Power Automate through workshops and 1:1 sessions, leading to a 30% increase in self-serve BI adoption across operations and finance teams.
 
-- Conducted in-depth Cost/Benefit, Risk, Impact, SWOT , Regression, Time Series, Decision Making and GAP Analysis. 
+- Performed advanced data analysis on business-critical KPIs using SQL and Excel, uncovering performance gaps and improving reporting refresh speeds by 25% through query optimization.
+
+- Conducted GAP analyses and evaluated data flow processes, recommending strategic enhancements that streamlined data delivery pipelines and improved end-user accuracy by 20%.
 
 ## **Technical Skills & Certifications**
 
