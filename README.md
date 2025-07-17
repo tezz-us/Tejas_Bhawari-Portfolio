@@ -26,7 +26,7 @@ Hey, I’m Tejas !! My journey started in Mechanical Engineering, but I quickly 
 
 ------------------------------------------------------------------------  
 
-#### **Data Analyst Intern– Avex ATP LLC (*Dec 2024 - May 2025*)**
+#### **Data Analyst Intern– Avex ATP LLC (*Dec 2024 - July 2025*)**
 
 - Executed SQL scripts, creating indexes, stored procedures for data analysis and maintained PL/SQL objects like packages, triggers, procedures etc.
 
