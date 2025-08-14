@@ -26,7 +26,7 @@ Hey, I’m Tejas !! My journey started in Mechanical Engineering, but I quickly 
 
 ------------------------------------------------------------------------  
 
-#### **Data Engineer / IFS Administrator (*Aug 2025 - Present*)**
+#### **Data Engineer / IFS Administrator - T.RAD North America Inc. (*Aug 2025 - Present*)**
 
 - Serving as the in-house expert and primary point of contact for IFS Applications.
 
