@@ -26,7 +26,25 @@ Hey, I’m Tejas !! My journey started in Mechanical Engineering, but I quickly 
 
 ------------------------------------------------------------------------  
 
-#### **Data Analyst Intern– Avex ATP LLC (*Dec 2024 - July 2025*)**
+#### **Data Engineer / IFS Administrator (*Aug 2025 - Present*)**
+
+- Serving as the in-house expert and primary point of contact for IFS Applications.
+
+- Administering, maintaining, and monitoring the IFS ERP system, including managing user access, roles, permissions, and security settings.
+
+- Collaborating with cross-functional teams (production, finance, inventory, procurement) to gather requirements and customize IFS solutions.
+
+- Performing system configuration, applying updates, and managing patch deployments.
+
+- Providing technical support, delivering end-user training, and creating detailed documentation to enhance system usage.
+
+- Assisting in system upgrades, testing, and deployment to ensure smooth transitions.
+
+- Supporting reporting and data analysis needs using IFS reporting tools and SQL queries.
+
+------------------------------------------------------------------------  
+
+#### **Data Engineer Intern– Avex ATP LLC (*Dec 2024 - July 2025*)**
 
 - Executed SQL scripts, creating indexes, stored procedures for data analysis and maintained PL/SQL objects like packages, triggers, procedures etc.
 
